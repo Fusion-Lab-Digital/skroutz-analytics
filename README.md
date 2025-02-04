@@ -73,4 +73,4 @@ This module is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for
 
 ## 📩 Support
 
-For any issues, feature requests, or inquiries, please open an issue on [GitHub Issues](https://github.com/Fusion-Lab-Digital/m2.core/issues), contact us at info@fusionlab.gr, or visit our website at [fusionlab.gr](https://fusionlab.gr/?utm_source=github&utm_medium=ga4&utm_campaign=module) for more information.
+For any issues, feature requests, or inquiries, please open an issue on [GitHub Issues](https://github.com/Fusion-Lab-Digital/m2.core/issues), contact us at info@fusionlab.gr, or visit our website at [fusionlab.gr](https://fusionlab.gr/?utm_source=github&utm_medium=skroutz_analytics&utm_campaign=module) for more information.
